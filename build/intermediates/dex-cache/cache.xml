@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/alex/Desktop/DaggerFramework-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="7d2525cba8ed61fff102977caed964fc22061e34">
+        <dex dex="/home/alex/Desktop/DaggerFramework-master/app/build/intermediates/pre-dexed/debug/classes-49cbfb915c96d253da21b87641e20448bc3a5612.jar" />
+    </item>
+    <item
+        jar="/home/alex/Desktop/DaggerFramework-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="/home/alex/Desktop/DaggerFramework-master/app/build/intermediates/pre-dexed/debug/classes-1996de24ecc2a4fc10501468546aa240742246e4.jar" />
+    </item>
+    <item
+        jar="/home/alex/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger/1.2.1/78f96ef00fceee95802930944b1fc4e0e1f9aacc/dagger-1.2.1.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="78f96ef00fceee95802930944b1fc4e0e1f9aacc">
+        <dex dex="/home/alex/Desktop/DaggerFramework-master/app/build/intermediates/pre-dexed/debug/dagger-1.2.1-f6d07d2dddd89f4401f80c5c7f917c86415db83f.jar" />
+    </item>
+    <item
+        jar="/home/alex/Desktop/DaggerFramework-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/home/alex/Desktop/DaggerFramework-master/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-009f5a1fdf948d7d53fd5bd974222c0893928aef.jar" />
+    </item>
+    <item
+        jar="/home/alex/.gradle/caches/modules-2/files-2.1/com.joanzapata.android/android-iconify/1.0.6/f9ee1a18c922b05fa5b48d9ff0a5ca4fccbf5b35/android-iconify-1.0.6.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="f9ee1a18c922b05fa5b48d9ff0a5ca4fccbf5b35">
+        <dex dex="/home/alex/Desktop/DaggerFramework-master/app/build/intermediates/pre-dexed/debug/android-iconify-1.0.6-273a2c011682221aae3eba3087ff910b3ced9fc9.jar" />
+    </item>
+    <item
+        jar="/home/alex/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/alex/Desktop/DaggerFramework-master/app/build/intermediates/pre-dexed/debug/javax.inject-1-e7ce6cd65d423e3e42713029ab8ab7c93b950a48.jar" />
+    </item>
+    <item
+        jar="/home/alex/Documents/android-studio/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/home/alex/Desktop/DaggerFramework-master/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-b4a315e8b3c7599bb85dab3f87077e5234ef4b97.jar" />
+    </item>
+    <item
+        jar="/home/alex/Desktop/DaggerFramework-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/home/alex/Desktop/DaggerFramework-master/app/build/intermediates/pre-dexed/debug/classes-533126cf9da382bd00404ef70cb57fbe60cc8898.jar" />
+    </item>
+    <item
+        jar="/home/alex/Desktop/DaggerFramework-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/home/alex/Desktop/DaggerFramework-master/app/build/intermediates/pre-dexed/debug/classes-bf18a142cab4010042ab1b8c6a0f6ff0d2581eae.jar" />
+    </item>
+    <item
+        jar="/home/alex/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.2.0/74137f8d9aac26dd9463efe32271f2be8d41cda9/picasso-2.2.0.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="74137f8d9aac26dd9463efe32271f2be8d41cda9">
+        <dex dex="/home/alex/Desktop/DaggerFramework-master/app/build/intermediates/pre-dexed/debug/picasso-2.2.0-d205d0c9630f5c29d0a0e69d4d8e877f36875e98.jar" />
+    </item>
+
+</items>
